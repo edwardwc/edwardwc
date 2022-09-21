@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Edward
-- 👀 I’m interested in web development & networking
-- 🌱 I’m currently learning XDP
-- 💞️ I’m looking to collaborate on creating fully stateful DDoS mitigation
-- 📫 How to reach me: here!
-
-<!---
-edwardwc/edwardwc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Edward
+- 👀 I’m interested in web development, networking as well as ethics & politics
+- 🌱 I’m currently building DiamondCDN
+- 💞️ I’m looking to collaborate on making products that benefit people and communities 
+- 📫 How to reach me: edward@diamondcdn.com
