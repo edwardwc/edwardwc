@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Edward
-- 👀 I’m interested in web development, networking as well as ethics & politics
-- 🌱 I’m currently building DiamondCDN
-- 💞️ I’m looking to collaborate on making products that benefit people and communities 
+- 👀 I’m interested in web development and ethics / politics
+- 🌱 I’m currently building DiamondCDN, a cybersecurity-focused content delivery network
+- 💞️ It's cheesy, but I’m passionate about improving humanity!
 - 📫 How to reach me: edward@diamondcdn.com
